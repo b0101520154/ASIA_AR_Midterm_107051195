@@ -188,7 +188,7 @@ ModelImporter:
     second: earphone
   - first:
       74: 7400000
-    second: Take 001
+    second: "\u89D2\u8272B\u8D70\u8DEF"
   - first:
       95: 9500000
     second: //RootNode
@@ -216,6 +216,21 @@ ModelImporter:
   - first:
       41386430: 2186277476908879412
     second: ImportLogs
+  - first:
+      74: -6668374706226329012
+    second: "\u89D2\u8272B\u8DD1\u6B65"
+  - first:
+      74: 8419741346869998048
+    second: "\u89D2\u8272B\u7B49\u5F85"
+  - first:
+      74: 7756746420717891054
+    second: "\u89D2\u8272B\u6B61\u547C (1)"
+  - first:
+      74: -2459074668575377590
+    second: "\u89D2\u8272B\u6B61\u547C "
+  - first:
+      74: 5007116974211107816
+    second: "\u89D2\u8272B\u8DF3\u8E8D"
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -251,14 +266,159 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: "\u89D2\u8272B\u8D70\u8DEF"
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u89D2\u8272B\u8DD1\u6B65"
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 35
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u89D2\u8272B\u7B49\u5F85"
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 61
+      lastFrame: 86
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u89D2\u8272B\u6B61\u547C "
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 100
+      lastFrame: 148
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u89D2\u8272B\u8DF3\u8E8D"
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 195
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -302,139 +462,139 @@ ModelImporter:
     serializedVersion: 3
     human: []
     skeleton:
-    - name: SD_QUERY_39(Clone)
+    - name: personB(Clone)
       parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: SD_QUERY_39
-      parentName: 
+      parentName: personB(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: body
-      parentName: 
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: earphone
-      parentName: 
-      position: {x: -0.2444945, y: 0.43512988, z: -0.074573636}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: face
-      parentName: 
-      position: {x: -0, y: 0.5867262, z: -0.035927385}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: hair
-      parentName: 
+      parentName: SD_QUERY_39
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: hair_top
-      parentName: 
-      position: {x: -0.06541384, y: 0.68204415, z: 0.10281629}
+      parentName: SD_QUERY_39
+      position: {x: -0.065413825, y: 0.6820442, z: 0.10281628}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: hat
-      parentName: 
+      parentName: SD_QUERY_39
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair
+      parentName: SD_QUERY_39
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: leg
-      parentName: 
+      parentName: SD_QUERY_39
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
+    - name: face
+      parentName: SD_QUERY_39
+      position: {x: -0, y: 0.5867262, z: -0.03592738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: earphone
+      parentName: SD_QUERY_39
+      position: {x: -0.24449448, y: 0.43512985, z: -0.07457362}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
     - name: SD_QUERY_39_Reference
-      parentName: 
+      parentName: personB(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.0033562426, y: 0, z: -0, w: 0.9999944}
       scale: {x: 1, y: 1, z: 1}
     - name: hip
-      parentName: 
-      position: {x: -0.001373157, y: 0.26698348, z: 0.0007671897}
+      parentName: SD_QUERY_39_Reference
+      position: {x: -0.0013731568, y: 0.26698345, z: 0.0007671896}
       rotation: {x: 0, y: -0, z: -0.7071068, w: 0.7071068}
       scale: {x: 1, y: 1, z: 1}
     - name: spine
-      parentName: 
-      position: {x: -0.03985474, y: 8.673617e-18, z: 0}
+      parentName: hip
+      position: {x: -0.039854735, y: 8.673617e-18, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: upper
-      parentName: 
-      position: {x: -0.0831256, y: 1.856154e-17, z: 0}
+      parentName: spine
+      position: {x: -0.08312559, y: 1.8561541e-17, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: L_arm
-      parentName: 
-      position: {x: 0.00022065466, y: -0.044927713, z: 0}
+      parentName: upper
+      position: {x: 0.00022065465, y: -0.044927713, z: 0}
       rotation: {x: 0, y: 0, z: 0.71344763, w: 0.70070857}
       scale: {x: 1, y: 1, z: 1}
     - name: L_arm2
-      parentName: 
-      position: {x: -0.07346112, y: 4.4408925e-17, z: 0}
+      parentName: L_arm
+      position: {x: -0.07346111, y: 4.440892e-17, z: 0}
       rotation: {x: 0, y: -0, z: -0.021582322, w: 0.99976707}
       scale: {x: 1, y: 1, z: 1}
     - name: L_hand
-      parentName: 
-      position: {x: -0.10524429, y: -8.881785e-17, z: 0}
+      parentName: L_arm2
+      position: {x: -0.10524428, y: -8.881784e-17, z: 0}
       rotation: {x: 0, y: -0, z: -0.69815856, w: 0.7159432}
       scale: {x: 1, y: 1, z: 1}
     - name: R_arm
-      parentName: 
-      position: {x: 0.00088235893, y: 0.0470492, z: 0}
+      parentName: upper
+      position: {x: 0.00088235893, y: 0.04704919, z: 0}
       rotation: {x: -0.70382565, y: 0.71037275, z: -8.659468e-17, w: -4.0089345e-19}
       scale: {x: 1, y: 1, z: 1}
     - name: R_arm2
-      parentName: 
-      position: {x: -0.07146714, y: 4.4408925e-17, z: 0}
+      parentName: R_arm
+      position: {x: -0.07146713, y: 4.440892e-17, z: 0}
       rotation: {x: 0, y: -0, z: -0.0046294807, w: 0.9999893}
       scale: {x: 1, y: 1, z: 1}
     - name: R_hand
-      parentName: 
-      position: {x: -0.10521099, y: 8.881784e-16, z: 0}
+      parentName: R_arm2
+      position: {x: -0.10521098, y: 8.881784e-16, z: 0}
       rotation: {x: -0.7071068, y: 0.7071068, z: -8.659561e-17, w: -8.7157646e-33}
       scale: {x: 1, y: 1, z: 1}
     - name: head
-      parentName: 
-      position: {x: -0.035299912, y: 7.979729e-18, z: 0}
+      parentName: upper
+      position: {x: -0.03529991, y: 7.979728e-18, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: ahoge
-      parentName: 
-      position: {x: -0.39626995, y: 8.847091e-17, z: 0.0243652}
+      parentName: head
+      position: {x: -0.39626995, y: 8.84709e-17, z: 0.024365198}
       rotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
       scale: {x: 1, y: 1, z: 1}
     - name: L_leg
-      parentName: 
-      position: {x: 0.020523649, y: -0.034235705, z: 0}
+      parentName: hip
+      position: {x: 0.02052365, y: -0.034235697, z: 0}
       rotation: {x: -0.023418231, y: 0.99972576, z: -6.26495e-17, w: -5.9781594e-17}
       scale: {x: 1, y: 1, z: 1}
     - name: L_leg2
-      parentName: 
-      position: {x: -0.1195113, y: 0, z: 0}
+      parentName: L_leg
+      position: {x: -0.11951131, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0.005355906, w: 0.9999857}
       scale: {x: 1, y: 1, z: 1}
     - name: L_foot
-      parentName: 
-      position: {x: -0.10328156, y: -7.827073e-16, z: -3.4694473e-19}
+      parentName: L_leg2
+      position: {x: -0.10328155, y: -7.8270725e-16, z: -3.469447e-19}
       rotation: {x: -0.018063506, y: 0.99983686, z: -6.232842e-17, w: -6.011628e-17}
       scale: {x: 1, y: 1, z: 1}
     - name: R_leg
-      parentName: 
-      position: {x: 0.018658336, y: 0.03415923, z: 0}
+      parentName: hip
+      position: {x: 0.018658334, y: 0.034159224, z: 0}
       rotation: {x: 0, y: 0, z: 0.9998357, w: 0.018125813}
       scale: {x: 1, y: 1, z: 1}
     - name: R_leg2
-      parentName: 
-      position: {x: -0.1200809, y: 2.0261572e-16, z: 0}
+      parentName: R_leg
+      position: {x: -0.1200809, y: 2.0261571e-16, z: 0}
       rotation: {x: 0, y: -0, z: -0.011424324, w: 0.99993473}
       scale: {x: 1, y: 1, z: 1}
     - name: R_foot
-      parentName: 
-      position: {x: -0.10526327, y: 3.3861807e-16, z: 0}
+      parentName: R_leg2
+      position: {x: -0.105263256, y: 3.3861802e-16, z: 0}
       rotation: {x: 0, y: 0, z: 0.9995634, w: -0.029547067}
       scale: {x: 1, y: 1, z: 1}
     armTwist: 0.5
@@ -451,9 +611,9 @@ ModelImporter:
     skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 1
+  animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
